@@ -5,4 +5,4 @@
 
 
 # HOSTED LINK
-<https://prismatic-croissant-6e6dbd.netlify.app>
+<https://orezyportfolio.netlify.app/>
