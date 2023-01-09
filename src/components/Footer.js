@@ -6,7 +6,7 @@ const Footer = () => {
   return (
     <footer>
       <div className='footer-content'>
-      <h3>Footer design</h3>
+      <h3>My Footer Design</h3>
       <p></p>
       <ul className="socials">
         <li><a href="https://twitter.com/Rexxie77" target="_blank" rel="noreferrer"><i className="fa-brands fa-twitter"></i></a></li>
