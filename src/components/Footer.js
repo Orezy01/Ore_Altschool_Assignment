@@ -18,6 +18,7 @@ const Footer = () => {
         <p>copyright &copy; 2023. designed by <span>Rexxie</span></p>
       </div>
     </footer>
+    // am about to do a deployment 
   )
 }
 
