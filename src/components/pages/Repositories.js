@@ -5,9 +5,6 @@ import {Helmet} from 'react-helmet-async';
 
 const Repositories = () => {
 
-  
-  
-
   const [repos, setRepos] = useState([]);
   const [repoPerPage] = useState(1);
   const [loading, setLoading] = useState(false);
